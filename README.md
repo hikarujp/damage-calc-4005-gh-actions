@@ -1,4 +1,6 @@
 # damage-calc
+![](https://github.com/hikarujp/damage-calc-4005-gh-actions/workflows/Damage%20Calclation%20Test/badge.svg)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
@@ -37,4 +39,4 @@ console.log(dc.effectiveDamage(100, 50, 30));
 計算すると 83.33333... となり、
 小数点以下の四捨五入の結果、ダメージの 83 の値が得られます。
 
-![](https://github.com/hikarujp/damage-calc-4005-gh-actions/workflows/Damage Calclation Test/badge.svg)
+![](https://github.com/hikarujp/damage-calc-4005-gh-actions/workflows/Damage%20Calclation%20Test/badge.svg)
